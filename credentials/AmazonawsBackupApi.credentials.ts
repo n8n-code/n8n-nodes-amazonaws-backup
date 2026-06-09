@@ -8,7 +8,7 @@ import type {
 export class AmazonawsBackupApi implements ICredentialType {
 	name = 'N8nDevAmazonawsBackupApi';
 
-	displayName = 'amazonaws-backup API';
+	displayName = 'Amazonaws Backup API';
 
 	icon: Icon = { light: 'file:../nodes/AmazonawsBackup/amazonaws-backup.png', dark: 'file:../nodes/AmazonawsBackup/amazonaws-backup.dark.png' };
 
@@ -22,7 +22,7 @@ export class AmazonawsBackupApi implements ICredentialType {
 			default: '',
 			required: true,
 			placeholder: 'http://backup.us-east-1.amazonaws.com',
-			description: 'The base URL of your amazonaws-backup API server',
+			description: 'The base URL of your Amazonaws Backup API server',
 		},
 		{
 			displayName: 'API Key',

@@ -53,9 +53,83 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Default | Delete cancel legal hold, Put create backup plan, Get list backup plans, Put create backup selection, Get list backup selections, Put create backup vault, Delete backup vault, Get describe backup vault, Post create framework, Get list frameworks, Post create legal hold, Get list legal holds, Post create report plan, Get list report plans, Delete backup plan, Post update backup plan, Delete backup selection, Get backup selection, Delete backup vault access policy, Get backup vault access policy, Put backup vault access policy, Delete backup vault lock configuration, Put backup vault lock configuration, Delete backup vault notifications, Get backup vault notifications, Put backup vault notifications, Delete framework, Get describe framework, Put update framework, Delete recovery point, Get describe recovery point, Post update recovery point lifecycle, Delete report plan, Get describe report plan, Put update report plan, Get describe backup job, Post stop backup job, Get describe copy job, Get describe global settings, Put update global settings, Get describe protected resource, Get describe region settings, Put update region settings, Get describe report job, Get describe restore job, Post disassociate recovery point, Delete disassociate recovery point from parent, Get export backup plan template, Get backup plan, Post get backup plan from json, Get backup plan from template, Get legal hold, Get recovery point restore metadata, Get supported resource types, Get list backup jobs, Get list backup plan templates, Get list backup plan versions, Get list backup vaults, Get list copy jobs, Get list protected resources, Get list recovery points by backup vault, Get list recovery points by legal hold, Get list recovery points by resource, Get list report jobs, Get list restore jobs, Get list tags, Put start backup job, Put start copy job, Post start report job, Put start restore job, Post tag resource, Post untag resource |
+<details>
+<summary><b>Default</b> (72 operations)</summary>
+
+- Delete Cancel Legal Hold
+- Put Create Backup Plan
+- Get List Backup Plans
+- Put Create Backup Selection
+- Get List Backup Selections
+- Put Create Backup Vault
+- Delete Backup Vault
+- Get Describe Backup Vault
+- Post Create Framework
+- Get List Frameworks
+- Post Create Legal Hold
+- Get List Legal Holds
+- Post Create Report Plan
+- Get List Report Plans
+- Delete Backup Plan
+- Post Update Backup Plan
+- Delete Backup Selection
+- Get Backup Selection
+- Delete Backup Vault Access Policy
+- Get Backup Vault Access Policy
+- Put Backup Vault Access Policy
+- Delete Backup Vault Lock Configuration
+- Put Backup Vault Lock Configuration
+- Delete Backup Vault Notifications
+- Get Backup Vault Notifications
+- Put Backup Vault Notifications
+- Delete Framework
+- Get Describe Framework
+- Put Update Framework
+- Delete Recovery Point
+- Get Describe Recovery Point
+- Post Update Recovery Point Lifecycle
+- Delete Report Plan
+- Get Describe Report Plan
+- Put Update Report Plan
+- Get Describe Backup Job
+- Post Stop Backup Job
+- Get Describe Copy Job
+- Get Describe Global Settings
+- Put Update Global Settings
+- Get Describe Protected Resource
+- Get Describe Region Settings
+- Put Update Region Settings
+- Get Describe Report Job
+- Get Describe Restore Job
+- Post Disassociate Recovery Point
+- Delete Disassociate Recovery Point From Parent
+- Get Export Backup Plan Template
+- Get Backup Plan
+- Post Get Backup Plan From JSON
+- Get Backup Plan From Template
+- Get Legal Hold
+- Get Recovery Point Restore Metadata
+- Get Supported Resource Types
+- Get List Backup Jobs
+- Get List Backup Plan Templates
+- Get List Backup Plan Versions
+- Get List Backup Vaults
+- Get List Copy Jobs
+- Get List Protected Resources
+- Get List Recovery Points By Backup Vault
+- Get List Recovery Points By Legal Hold
+- Get List Recovery Points By Resource
+- Get List Report Jobs
+- Get List Restore Jobs
+- Get List Tags
+- Put Start Backup Job
+- Put Start Copy Job
+- Post Start Report Job
+- Put Start Restore Job
+- Post Tag Resource
+- Post Untag Resource
+
+</details>
 
 ---
 

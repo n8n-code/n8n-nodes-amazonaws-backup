@@ -3,14 +3,14 @@ import { defaultDescription } from './resources/default';
 
 export class AmazonawsBackup implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'amazonaws-backup',
+		displayName: 'Amazonaws Backup',
 		name: 'N8nDevAmazonawsBackup',
 		icon: { light: 'file:./amazonaws-backup.png', dark: 'file:./amazonaws-backup.dark.png' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
-		description: 'Backup is a unified backup service designed to protect Amazon Web Services services and their associated data. Backup simplifies the creation, migration, restoration,..',
-		defaults: { name: 'amazonaws-backup' },
+		description: 'AWS Backup: unified service for protecting AWS services and data.',
+		defaults: { name: 'Amazonaws Backup' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],
